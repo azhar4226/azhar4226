@@ -13,17 +13,17 @@
   <picture>
     <img src="./About Me.gif" width="50px">
   </picture>
-  <b style="margin-left: 10px;">About Me</b>
+  <b style="margin-left: 15px;">About Me</b>
 </div>
 
 
 <img align="right" src="./Right Side.gif" width="300px" style="position: relative; top: -30px;">
 <br>
-	•	Passionate Data Analyst and Scientist: Adept at leveraging strong analytical and problem-solving skills to drive impactful insights.
+	<b>•	Passionate Data Analyst and Scientist:</b> Adept at leveraging strong analytical and problem-solving skills to drive impactful insights.
 <br>
-	•	Expert in Statistical Analysis and Data Visualization: Proficient in utilizing advanced tools and methodologies to interpret complex data and present actionable findings.
+	<b>•	Expert in Statistical Analysis and Data Visualization:</b> Proficient in utilizing advanced tools and methodologies to interpret complex data and present actionable findings.
 <br>
-	•	Experienced with Python, R, and SQL: Skilled in applying these languages to create efficient, data-driven solutions and optimize decision-making processes.
+	<b>•	Experienced with Python, R, and SQL:</b> Skilled in applying these languages to create efficient, data-driven solutions and optimize decision-making processes.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
