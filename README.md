@@ -61,16 +61,10 @@
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
   <img src="https://img.shields.io/badge/VueJS%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</p>
-
-
-### Back-End Development
-
-<p align="center">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  
 </p>
+
+
 
 ### Database
 
