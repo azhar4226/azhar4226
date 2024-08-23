@@ -44,9 +44,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Numpy-%2300A4E0.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/Matplotlib-%2300A2E3.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-%2300A3E0.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
   <img src="https://img.shields.io/badge/SQL-%23276DC3.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-%2314354C.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel">
 </p>
 
 
