@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
   <img src="https://img.shields.io/badge/VueJS%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS">
-  <img src="https://img.shields.io/badge/Flask-%000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
 
 
@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
-  <img src="https://img.shields.io/badge/Flask-%000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   
 </p>
 
