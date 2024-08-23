@@ -1,9 +1,9 @@
-<!-- ## <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width="1000" height="300" /> -->
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width="1000" height="300" />
 
 <h1 align="center">Hi, I'm Azhar Quadri 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&random=true&width=435&lines=Data+Analyst+%26+Scientist;Passionate+about+data+%26+analytics;Driven+by+impactful+decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&random=true&width=435&lines=Data+Analyst;Passionate+about+data+%26+analytics;" alt="Typing SVG" />
   </a>
 </p>
 <p align="left">
