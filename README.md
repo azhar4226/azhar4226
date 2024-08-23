@@ -7,19 +7,19 @@
   </a>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=azhar_quadri1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=azhar4226&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 
 <div style="display: flex; align-items: center;">
   <picture>
-    <img src="./about_me.gif" width="50px">
+    <img src="./About Me.gif" width="50px">
   </picture>
   <b style="margin-left: 10px;">About Me</b>
 </div>
 
 
-<img align="right" src="./Right_Side.gif" width="300px" style="position: relative; top: -30px;">
+<img align="right" src="./Right Side.gif" width="300px" style="position: relative; top: -30px;">
 <br>
 - Passionate data analyst and scientist with strong analytical and problem-solving abilities.
 - Skilled in statistical analysis, data visualization, and leveraging advanced tools and methodologies.
@@ -86,7 +86,7 @@
 
 <br>
 <div align="center">
-  <b>Let's Connect!</b><img src="./handshake.gif" width="80">
+  <b>Let's Connect!</b><img src="./Handshake (1).gif" width="80">
   <br>
   <a href="Resume(DataField).pdf" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">Download Resume</a>
 </div>
