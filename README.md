@@ -19,7 +19,7 @@
 
 <img align="right" src="./Right Side.gif" width="300px" style="position: relative; top: -30px;">
 <br>
-	<h2>•	Passionate Data Analyst and Scientist:</h2> Adept at leveraging strong analytical and problem-solving skills to drive impactful insights.
+	<h3>•	Passionate Data Analyst and Scientist:</h3> Adept at leveraging strong analytical and problem-solving skills to drive impactful insights.
 <br>
 	<h2>•	Expert in Statistical Analysis and Data Visualization:</h2> Proficient in utilizing advanced tools and methodologies to interpret complex data and present actionable findings.
 <br>
