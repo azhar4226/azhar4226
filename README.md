@@ -19,11 +19,11 @@
 
 <img align="right" src="./Right Side.gif" width="300px" style="position: relative; top: -30px;">
 <br>
-	<h3>•	Passionate Data Analyst and Scientist:</h3> Adept at leveraging strong analytical and problem-solving skills to drive impactful insights.
+	<h4>•	Passionate Data Analyst and Scientist:</h4> Adept at leveraging strong analytical and problem-solving skills to drive impactful insights.
 <br>
-	<h2>•	Expert in Statistical Analysis and Data Visualization:</h2> Proficient in utilizing advanced tools and methodologies to interpret complex data and present actionable findings.
+	<h4>•	Expert in Statistical Analysis and Data Visualization:</h4> Proficient in utilizing advanced tools and methodologies to interpret complex data and present actionable findings.
 <br>
-	<h2>•	Experienced with Python, R, and SQL:</h2> Skilled in applying these languages to create efficient, data-driven solutions and optimize decision-making processes.
+	<h4>•	Experienced with Python, R, and SQL:</h4> Skilled in applying these languages to create efficient, data-driven solutions and optimize decision-making processes.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
